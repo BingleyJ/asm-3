@@ -1,3 +1,5 @@
-Assembly Homework #3\n
+Assembly Homework #3
 
-take user input and convert to Upper case.
+Convert user input to UPPER CASE.
+
+note: LEA is awesome.
